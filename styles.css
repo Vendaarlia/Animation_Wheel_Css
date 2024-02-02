@@ -1,3 +1,9 @@
+body {
+  max-width: 500px;
+  max-height: 500px;
+  margin: auto;
+}
+
 .wheel {
     border: 2px solid black;
     border-radius: 50%;
